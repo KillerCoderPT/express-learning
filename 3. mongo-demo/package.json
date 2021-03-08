@@ -1,0 +1,19 @@
+{
+  "name": "mongo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.19"
+  },
+  "devDependencies": {
+    "debug": "^3.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
